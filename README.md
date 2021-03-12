@@ -52,5 +52,15 @@ Ejecutar El servidor
 ```bash
 python manage.py runserver
 ```
+## Rutas Disponibles
 
-
+Reviews
+```bash
+GET : http://127.0.0.1:8000/api/v1.0/reviews
+```
+```bash
+POST : http://127.0.0.1:8000/api/v1.0/reviews/add
+```
+```bash
+PUT AND DELETE : http://127.0.0.1:8000/api/v1.0/reviews/PK
+```
