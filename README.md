@@ -41,6 +41,11 @@ Ejecutar Migraciones
 ```bash
 python manage.py migrate
 ```
+Crear usuario admin
+
+```bash
+python manage.py createsuperuser
+```
 
 Ejecutar El servidor
 
