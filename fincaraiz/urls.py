@@ -26,4 +26,5 @@ urlpatterns = [
     path(apiv1, include("apps.states.urls")),
     path(apiv1, include("apps.cities.urls")),
     path(apiv1, include("apps.categories.urls")),
+    path(apiv1, include("apps.properties.urls")),
 ]
