@@ -23,4 +23,6 @@ urlpatterns = [
     path(apiv1, include("apps.reviews.urls")),
     path(apiv1, include("apps.transactions.urls")),
     path(apiv1, include("apps.property_types.urls")),
+    path(apiv1, include("apps.states.urls")),
+    path(apiv1, include("apps.cities.urls")),
 ]
