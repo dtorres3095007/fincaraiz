@@ -8,7 +8,7 @@ Crear entorno virtual
 python -m venv prueba
 ```
 
-activar entorno virtua
+activar entorno virtual
 
 ```bash
 cd prueba
@@ -22,7 +22,7 @@ cd Scripts
 activate
 ```
 
-##Configuración Proyecto
+## Configuración Proyecto
 
 Clonar el proyecto
 
