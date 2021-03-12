@@ -12,12 +12,6 @@ activar entorno virtual
 
 ```bash
 cd prueba
-```
-
-activar entorno virtual
-
-```bash
-cd prueba
 cd Scripts
 activate
 ```
